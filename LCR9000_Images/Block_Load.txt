@@ -1,0 +1,6 @@
+Normal Mode
+All_Block.bmp,1,180000,0,2,0,1
+6_Block.bmp,1,180000,0,1,0,1
+678_Block.bmp,1,180000,0,4,0,1
+7_Block.bmp,1,180000,0,2,0,1
+8_Block.bmp,1,180000,0,1,0,1

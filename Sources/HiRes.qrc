@@ -1,0 +1,47 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>Icons/Led_G.png</file>
+        <file>Icons/select.png</file>
+        <file>Icons/select.ico</file>
+        <file>Icons/Led_R.png</file>
+        <file>Icons/my_pause.png</file>
+        <file>Icons/my_play.png</file>
+        <file>Icons/my_stop.png</file>
+        <file>Icons/add.png</file>
+        <file>Icons/delete.png</file>
+        <file>Icons/back.png</file>
+        <file>Icons/buttonback.png</file>
+        <file>Icons/firmware.png</file>
+        <file>Icons/img.jpg</file>
+        <file>Icons/img1.jpg</file>
+        <file>Icons/info.png</file>
+        <file>Icons/txlogo.png</file>
+        <file>Icons/video.png</file>
+        <file>Icons/Led_Gray.png</file>
+        <file>Icons/GUI_icon.ico</file>
+        <file>Icons/dlp_logo.png</file>
+        <file>Icons/load.png</file>
+        <file>Icons/save.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>images/back.png</file>
+        <file>images/badge file.png</file>
+        <file>images/firmware.png</file>
+        <file>images/img.jpg</file>
+        <file>images/img1.jpg</file>
+        <file>images/pattern.png</file>
+        <file>images/settings.png</file>
+        <file>images/txlogo.png</file>
+        <file>images/video.png</file>
+        <file>images/info.png</file>
+        <file>images/batchFile_icon.png</file>
+        <file>images/peripherals_icon.png</file>
+        <file>images/step-a.png</file>
+        <file>images/step-b.png</file>
+        <file>images/DLP6500_EVM.png</file>
+        <file>images/DLP9000_EVM.png</file>
+        <file>images/TI_E2E_icon.png</file>
+        <file>images/LCR6500.jpg</file>
+        <file>images/LCR9000.jpg</file>
+    </qresource>
+</RCC>
